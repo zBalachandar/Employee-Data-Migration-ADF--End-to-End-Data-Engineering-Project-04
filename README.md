@@ -6,7 +6,7 @@ This is a complete End to End Pipeline project done by ADF
   <a href="#">
     <img src="https://github.com/zBalachandar/Employee-Data-Migration-ADF--End-to-End-Data-Engineering-Project-04/blob/f06a03d437b4936c31efb2e5b53d7a3a1b479a8f/source/Azure%20account%20view.png" alt="Banner" width="720">
   </a>
-
+</div>
 <br>
 
 ### 💾 Dataset
