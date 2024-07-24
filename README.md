@@ -1,6 +1,5 @@
 # Employee-Data-Migration-ADF--End-to-End-Data-Engineering-Project-04
 In this project we are going to do one end to end Realtime azure data engineer project . we will see how we can setup azure data factory pipeline. how to setup integration run time, how we can transfer data from on prem sql server to azure cloud space.
-# ADF-End-to-End-DataEngineering-Pipeline-Project-03
 
 This is a complete End to End Pipeline project done by ADF
 <div align="center">
@@ -38,9 +37,9 @@ what we have covered in this project:
 ![image](https://github.com/zBalachandar/Employee-Data-Migration-ADF--End-to-End-Data-Engineering-Project-04/blob/f06a03d437b4936c31efb2e5b53d7a3a1b479a8f/source/ON-prem%20sql%20server%20data%20View.png)
 ![image](https://github.com/zBalachandar/Employee-Data-Migration-ADF--End-to-End-Data-Engineering-Project-04/blob/f06a03d437b4936c31efb2e5b53d7a3a1b479a8f/source/on%20prem%20sql%20server%20output%201.png)
 ![image](https://github.com/zBalachandar/Employee-Data-Migration-ADF--End-to-End-Data-Engineering-Project-04/blob/f06a03d437b4936c31efb2e5b53d7a3a1b479a8f/source/Copy%20data%20pipeline%20Triggered%20Full%20.png)
-![image](https://github.com/zBalachandar/Employee-Data-Migration-ADF--End-to-End-Data-Engineering-Project-04/blob/f06a03d437b4936c31efb2e5b53d7a3a1b479a8f/source/Copy%20data%20pipeline%20Triggered%202.png)
 ![image](https://github.com/zBalachandar/Employee-Data-Migration-ADF--End-to-End-Data-Engineering-Project-04/blob/f06a03d437b4936c31efb2e5b53d7a3a1b479a8f/source/monitor%20pipeline%20triggered.png)
 ![image](https://github.com/zBalachandar/Employee-Data-Migration-ADF--End-to-End-Data-Engineering-Project-04/blob/f06a03d437b4936c31efb2e5b53d7a3a1b479a8f/source/monitor%20pipeline%20triggered2.png)
+![image](https://github.com/zBalachandar/Employee-Data-Migration-ADF--End-to-End-Data-Engineering-Project-04/blob/f06a03d437b4936c31efb2e5b53d7a3a1b479a8f/source/Copy%20data%20pipeline%20Triggered%202.png)
 ![image](https://github.com/zBalachandar/Employee-Data-Migration-ADF--End-to-End-Data-Engineering-Project-04/blob/f06a03d437b4936c31efb2e5b53d7a3a1b479a8f/source/Gen2%20storage%20opt.png)
 ![image](https://github.com/zBalachandar/Employee-Data-Migration-ADF--End-to-End-Data-Engineering-Project-04/blob/f06a03d437b4936c31efb2e5b53d7a3a1b479a8f/source/Gen2%20storage%20container.png)
 ![image](https://github.com/zBalachandar/Employee-Data-Migration-ADF--End-to-End-Data-Engineering-Project-04/blob/f06a03d437b4936c31efb2e5b53d7a3a1b479a8f/source/Gen2%20storage%20container%20OUTPUT.png)
